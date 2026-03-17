@@ -33,6 +33,7 @@ while True:
 
 ## OUPUT
 ![alt text](<Screenshot 2026-02-11 112935.png>)
+![alt text](image-1.png)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
